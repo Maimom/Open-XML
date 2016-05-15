@@ -1,0 +1,13 @@
+A:\Github\Open XML\Paragraph\OpenXML.Paragraps\OpenXML.Paragraps\bin\Debug\OpenXML.Paragraps.exe.config
+A:\Github\Open XML\Paragraph\OpenXML.Paragraps\OpenXML.Paragraps\bin\Debug\OpenXML.Paragraps.exe
+A:\Github\Open XML\Paragraph\OpenXML.Paragraps\OpenXML.Paragraps\bin\Debug\OpenXML.Paragraps.pdb
+A:\Github\Open XML\Paragraph\OpenXML.Paragraps\OpenXML.Paragraps\obj\Debug\OpenXML.Paragraps.csprojResolveAssemblyReference.cache
+A:\Github\Open XML\Paragraph\OpenXML.Paragraps\OpenXML.Paragraps\obj\Debug\OpenXML.Paragraps.OpenXMLParagraph.resources
+A:\Github\Open XML\Paragraph\OpenXML.Paragraps\OpenXML.Paragraps\obj\Debug\OpenXML.Paragraps.Properties.Resources.resources
+A:\Github\Open XML\Paragraph\OpenXML.Paragraps\OpenXML.Paragraps\obj\Debug\OpenXML.Paragraps.csproj.GenerateResource.Cache
+A:\Github\Open XML\Paragraph\OpenXML.Paragraps\OpenXML.Paragraps\obj\Debug\OpenXML.Paragraps.exe
+A:\Github\Open XML\Paragraph\OpenXML.Paragraps\OpenXML.Paragraps\obj\Debug\OpenXML.Paragraps.pdb
+A:\Github\Open XML\Paragraph\OpenXML.Paragraps\OpenXML.Paragraps\bin\Debug\DocumentFormat.OpenXml.dll
+A:\Github\Open-XML\Paragraph\OpenXML.Paragraps\OpenXML.Paragraps\bin\Debug\OpenXML.Paragraps.exe.config
+A:\Github\Open-XML\Paragraph\OpenXML.Paragraps\OpenXML.Paragraps\obj\Debug\OpenXML.Paragraps.exe
+A:\Github\Open-XML\Paragraph\OpenXML.Paragraps\OpenXML.Paragraps\obj\Debug\OpenXML.Paragraps.pdb
